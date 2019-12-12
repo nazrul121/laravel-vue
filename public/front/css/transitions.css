@@ -1,0 +1,53 @@
+*:after,
+*:before,
+p a,
+a,
+.dc-socialicons li a,
+.dc-roundicontext,
+.dc-roundicontext .dc-usericonholder,
+.sub-menu,
+.mega-menu,
+.dc-doctordetails-holder,
+.dc-slidercounter,
+.dc-doctordetails-holder h3,
+.dc-awardtooltip em,
+.dc-docpostimg img,
+.dc-docpostholder,
+.dc-next,
+.dc-prev,
+.dc-article,
+.dc-articleimg img,
+.dc-articlesdocinfo,
+.dc-articlesdocinfo span,
+.dc-usernav,
+.dc-ourteamimg img,
+.dc-ourteam,
+.dc-clientslogo ul li a img,
+.dc-sidebarwrapper,
+.dc-btnmenutoggle,
+.dc-subpaneltitle,
+.dc-btn,
+.dc-tabstitle li,
+.dc-clinics,
+.dc-clinicsimg img,
+.dc-clinicsimg,
+.dc-recentapoint,
+.dc-apoint-date em,
+.dc-apoint-date span,
+.dc-spaces,
+.dc-spaces span,
+.chosen-container-multi .chosen-choices li.search-choice,
+.dc-main,
+.dc-timeslots .dc-radio input[type=radio] + label,
+.dc-timeslots .dc-radio input[type=radio] + label span,
+.dc-timeslots .dc-radio input[type=radio] + label em,
+.dc-postedsilderitem,
+.dc-userlistinghold
+
+{
+	-webkit-transition: all 300ms ease-in-out;
+	-moz-transition: all 300ms ease-in-out;
+	-ms-transition: all 300ms ease-in-out;
+	-o-transition: all 300ms ease-in-out;
+	transition: all 300ms ease-in-out;
+}
